@@ -13,12 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Resource Files\Header Files">
-      <UniqueIdentifier>{75bc5e34-3782-408d-a72f-39a2f23e0a3a}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="shuffle_range_sfiane.h">
+    <ClInclude Include="shuffle_range_concepts.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
