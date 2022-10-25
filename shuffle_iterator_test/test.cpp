@@ -3,8 +3,8 @@
 #include <forward_list>
 #include <unordered_map>
 
-//#include "../shuffle_iterator/shuffle_range_sfiane.h"
-#include "../shuffle_iterator_concepts/shuffle_range_concepts.h"
+#include "../shuffle_iterator/shuffle_range_sfinae.h"
+//#include "../shuffle_iterator_concepts/shuffle_range_concepts.h"
 
 TEST(Arr, Test) {
 	int a[] = { 0, 4, 5, 2, 8, 1 };

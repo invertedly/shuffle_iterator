@@ -18,7 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="shuffle_range_sfiane.h">
+    <ClInclude Include="shuffle_range_sfinae.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
